@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Initialize Cohere API key
-cohere.init("YOUR_COHERE_API_KEY")  # Replace with your actual Cohere API key
+cohere.init("ZzoW5tBv8WoOcQYGGXwFlWoYocj1okrmVXRnrHoi")  # Replace with your actual Cohere API key
 
 st.title("Rag Based Bot for The Ahmedabad Municipal Corporation")
 
