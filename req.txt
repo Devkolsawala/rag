@@ -1,0 +1,4 @@
+streamlit
+cohere
+llama-index
+llama-index-core
